@@ -1,0 +1,86 @@
+@font-face {
+    font-family: ginto;
+    src: url(font/Ginto-Nord-700.woff);
+}
+
+.main-div{
+    background-color: rgb(60, 60, 253);
+    background-image: url(image/cloud.svg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.image-logo{
+    width: 8rem;
+    
+
+}
+.footercontent0{
+    font-family: ginto;
+}
+.imagine{
+    font-size: 2em;
+    font-family: ginto;
+}
+.second-content{
+    height: 50%;
+    width: 75%;
+}
+.container-div1{
+   
+    margin-top: 10rem;
+}
+.description{
+    width: 41rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image1{
+    width:65% ;
+    height:auto;
+    
+}
+.image2{
+    width: 65%;
+    height:auto;
+    margin-left: 10rem;
+}
+.divimage1{
+    width: 100%;
+    
+    margin-bottom: 5rem;
+}
+
+.row{
+    width: 100%;
+    align-items: center;
+   
+}
+.div2-content{
+    width: 70%;
+    justify-content: center;
+}
+.gray-background{
+    background-color: #f6f6f6;
+}
+.bottom-contents{
+    width: 64rem;
+}
+.background-image-sparcles{
+    background-image: url(image/bottomimg.svg);
+    display: inline-block;
+}
+li{
+    list-style: none;
+}
+.black-background{
+    background-color: #23272a;
+}
+.imaginecolumn{
+    width: 2em;
+    
+}
+.footerimage{
+    width: 8rem;
+}
